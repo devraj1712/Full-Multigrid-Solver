@@ -1,0 +1,4 @@
+grid_size = 512
+nu = 2
+k = 1
+sigma = 1
